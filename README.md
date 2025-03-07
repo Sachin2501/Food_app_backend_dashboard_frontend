@@ -36,4 +36,6 @@ This is a **MERN-based backend dashboard** for a **Food Ordering App**. It allow
 
 ### **1. Clone the Repository**  
 ```sh
-git clone this repo
+git clone https://github.com/Sachin2501/Food_app_backend_dashboard_frontend.git
+
+---
